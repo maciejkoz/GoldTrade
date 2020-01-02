@@ -5,18 +5,19 @@ import lombok.Data;
 
 @Data
 @AllArgsConstructor
-public class User {
+public class UserAccount {
 
-    private int id;
+    private int accountId;
     private String firstName;
     private String lastName;
-    private String login;
-    private String password;
     private String email;
+    private String password;
 
     private double balanceUSD;
     private double balanceXAG;
 
-    public User() {
+    public UserAccount() {
     }
+
+
 }
