@@ -1,6 +1,6 @@
-package com.example.GoldTradeDemo.api.response;
+package com.example.goldTradeDemo.api.response;
 
-import com.example.GoldTradeDemo.api.type.ResponseStatus;
+import com.example.goldTradeDemo.api.type.ResponseStatus;
 import com.fasterxml.jackson.annotation.JsonInclude;
 
 @JsonInclude(JsonInclude.Include.NON_NULL)

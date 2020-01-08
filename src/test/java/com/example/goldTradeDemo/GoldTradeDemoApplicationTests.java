@@ -1,4 +1,4 @@
-package com.example.GoldTradeDemo;
+package com.example.goldTradeDemo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

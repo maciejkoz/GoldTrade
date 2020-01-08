@@ -1,4 +1,4 @@
-package com.example.GoldTradeDemo.exchange;
+package com.example.goldTradeDemo.exchange;
 
 import java.util.HashMap;
 import java.util.List;

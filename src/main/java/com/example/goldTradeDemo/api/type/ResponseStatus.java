@@ -1,4 +1,4 @@
-package com.example.GoldTradeDemo.api.type;
+package com.example.goldTradeDemo.api.type;
 
 public enum ResponseStatus {
     SUCCESS,

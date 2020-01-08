@@ -1,6 +1,6 @@
-package com.example.GoldTradeDemo.controller;
+package com.example.goldTradeDemo.controller;
 
-import com.example.GoldTradeDemo.exchange.GoldExchangeRate;
+import com.example.goldTradeDemo.exchange.GoldExchangeRate;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 import java.util.Set;

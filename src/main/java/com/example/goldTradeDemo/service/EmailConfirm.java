@@ -1,4 +1,4 @@
-package com.example.GoldTradeDemo.user;
+package com.example.goldTradeDemo.service;
 
 import javax.mail.*;
 import javax.mail.internet.InternetAddress;
