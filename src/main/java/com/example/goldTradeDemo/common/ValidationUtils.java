@@ -27,5 +27,4 @@ public class ValidationUtils {
     }
 
     public static boolean isUncorrectedAge(Integer age) { return age <= MIN_AGE;}
-
 }

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pl" xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <title>Gold Trade Demo</title>
+</head>
+<body bgcolor="#99CC66">
+<hr>
+<div class="container">
+    <h2>Rejestracja</h2>
+    <div>
+        <form action="#" th:action="@{/save_emp}" th:object="${emp}" method="post">
+            <input type="hidden" th:field="*{id}">
+            <input type="text" th:field="*{ownerFirstName}" placeholder="Imię"><br>
+            <input type="text" th:field="*{ownerLastName}" placeholder="Nazwisko"><br>
+            <input type="text" th:field="*{ownerEmail}" placeholder="Adres e-mail"><br>
+            <input type="text" th:field="*{ownerUsername}" placeholder="Nazwa Użytkownika"><br>
+            <input type="text" th:field="*{ownerPassword}" placeholder="Hasło"><br>
+            <input type="text" th:field="*{ownerAge}" placeholder="Wiek (ukończony)"><br>
+            <input type="submit" th:value="Save">
+        </form>
+    </div>
+</body>
+</html>
+
