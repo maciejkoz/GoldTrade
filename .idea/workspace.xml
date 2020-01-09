@@ -2,36 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b181c94-12cf-4079-91dd-a23cfe32c78f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/goldTradeDemo/common/ConstErrorMsg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/goldTradeDemo/common/MsgSource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/goldTradeDemo/common/ValidationUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/goldTradeDemo/controller/GlobalExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/goldTradeDemo/exception/CommonBadRequestException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/goldTradeDemo/exception/CommonConflictException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/goldTradeDemo/exception/CommonException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/goldTradeDemo/repository/UserAccountRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/goldTradeDemo/service/AbstractCommonService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/goldTradeDemo/service/Impl/UserAccountServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/goldTradeDemo/service/UserAccountService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/data.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/message.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_postgresql_postgresql_42_2_8.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoldTradeDemo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/GoldTradeDemo.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/GoldTradeDemo/api/request/CreateUserAccountRequeast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/goldTradeDemo/api/request/CreateUserAccountRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/GoldTradeDemo/api/response/BasicResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/goldTradeDemo/api/response/BasicResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/GoldTradeDemo/api/response/CreateUserAccountResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/goldTradeDemo/api/response/CreateUserAccountResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/GoldTradeDemo/api/type/ResponseStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/goldTradeDemo/api/type/ResponseStatus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/GoldTradeDemo/app/GoldTradeDemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/goldTradeDemo/GoldTradeDemoApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/GoldTradeDemo/controller/GoldExchangeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/goldTradeDemo/controller/GoldExchangeController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/GoldTradeDemo/controller/UserAccountController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/goldTradeDemo/controller/UserAccountController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/GoldTradeDemo/exchange/GoldExchangeRate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/goldTradeDemo/exchange/GoldExchangeRate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/GoldTradeDemo/exchange/SpreadProfilePrice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/goldTradeDemo/exchange/SpreadProfilePrice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/GoldTradeDemo/exchange/Topo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/goldTradeDemo/exchange/Topo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/GoldTradeDemo/user/EmailConfirm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/goldTradeDemo/service/EmailConfirm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/GoldTradeDemo/user/UserAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/goldTradeDemo/model/UserAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/goldTradeDemo/common/ValidationUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/goldTradeDemo/common/ValidationUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/goldTradeDemo/repository/UserAccountRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/goldTradeDemo/repository/UserAccountRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/goldTradeDemo/service/Impl/UserAccountServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/goldTradeDemo/service/Impl/UserAccountServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/GoldTradeDemo/GoldTradeDemoApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/goldTradeDemo/GoldTradeDemoApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/data.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/message.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/message.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +31,57 @@
     <option name="HIDDEN_KINDS">
       <set />
     </option>
-    <expand />
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="PostgreSQL - gold_trade_db@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="PostgreSQL - gold_trade_db@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="PostgreSQL - gold_trade_db@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="gold_trade_db: database" type="162271b6:PgImplModel$Database" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="PostgreSQL - gold_trade_db@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="gold_trade_db: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="PostgreSQL - gold_trade_db@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="gold_trade_db: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="PostgreSQL - gold_trade_db@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="gold_trade_db: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="PostgreSQL - gold_trade_db@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="gold_trade_db: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="user_account: table" type="69fad909:PgImplModel$LocalTable" />
+      </path>
+    </expand>
     <select />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -97,7 +129,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../spring_employees" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../FantasticStoriesWeb-master" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -149,7 +181,8 @@
       <workItem from="1577971970696" duration="25973000" />
       <workItem from="1578056212627" duration="337000" />
       <workItem from="1578057180630" duration="1986000" />
-      <workItem from="1578485948121" duration="15067000" />
+      <workItem from="1578485948121" duration="15530000" />
+      <workItem from="1578572501633" duration="7130000" />
     </task>
     <task id="LOCAL-00001" summary="base project with database">
       <created>1577046632841</created>
@@ -186,7 +219,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578001677426</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="new 1 commit - boot not started">
+      <created>1578518501620</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1578518501620</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -195,17 +235,18 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="base project with database" />
     <MESSAGE value="commit after first json connect and package api" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit after first json connect and package api" />
+    <MESSAGE value="new 1 commit - boot not started" />
+    <option name="LAST_COMMIT_MESSAGE" value="new 1 commit - boot not started" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="361" y="70" key="#Project_Structure" timestamp="1578488167153">
+    <state x="361" y="70" key="#Project_Structure" timestamp="1578577150580">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="70" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1578488167153" />
-    <state x="361" y="70" key="#SQL_Dialects" timestamp="1578486894284">
+    <state x="361" y="70" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1578577150580" />
+    <state x="361" y="70" key="#SQL_Dialects" timestamp="1578576920634">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="70" key="#SQL_Dialects/0.0.1536.824@0.0.1536.824" timestamp="1578486894284" />
+    <state x="361" y="70" key="#SQL_Dialects/0.0.1536.824@0.0.1536.824" timestamp="1578576920634" />
     <state x="361" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577972729606">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -226,50 +267,54 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="566" y="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1536.824@0.0.1536.824" timestamp="1577982708633" />
-    <state x="383" y="6" key="CommitChangelistDialog2" timestamp="1578518401335">
+    <state x="383" y="6" key="CommitChangelistDialog2" timestamp="1578518498906">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="383" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1578518401335" />
-    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1577997644027">
+    <state x="383" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1578518498906" />
+    <state width="254" height="195" key="DatabaseViewActions_Filter" timestamp="1578579042664">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1577997644027" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1578486981098">
+    <state width="254" height="195" key="DatabaseViewActions_Filter/0.0.1536.824@0.0.1536.824" timestamp="1578579042664" />
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1578518580344">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1578486981098" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1578517796368">
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1578518580344" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1578574074825">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1578517796368" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1578517796367">
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1578574074825" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1578579952914">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1578517796367" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1578517796367">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1578579952914" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1578579952914">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1578517796367" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1578517796367">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1578579952914" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1578579952914">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1578517796367" />
-    <state width="1493" height="210" key="GridCell.Tab.1.bottom" timestamp="1578517796368">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1578579952914" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1578579952914">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1578517796368" />
-    <state width="1493" height="210" key="GridCell.Tab.1.center" timestamp="1578517796368">
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1578579952914" />
+    <state width="1493" height="210" key="GridCell.Tab.1.bottom" timestamp="1578579952914">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1578517796368" />
-    <state width="1493" height="210" key="GridCell.Tab.1.left" timestamp="1578517796368">
+    <state width="1493" height="210" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1578579952914" />
+    <state width="1493" height="210" key="GridCell.Tab.1.center" timestamp="1578579952914">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1578517796368" />
-    <state width="1493" height="210" key="GridCell.Tab.1.right" timestamp="1578517796368">
+    <state width="1493" height="210" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1578579952914" />
+    <state width="1493" height="210" key="GridCell.Tab.1.left" timestamp="1578579952914">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1578517796368" />
+    <state width="1493" height="210" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1578579952914" />
+    <state width="1493" height="210" key="GridCell.Tab.1.right" timestamp="1578579952914">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1578579952914" />
     <state width="189" height="457" key="HiddenNamespacesPopup" timestamp="1577044567719">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -294,10 +339,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="279" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1577123169903" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1578001689101">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1578518582023">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1578001689101" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1578518582023" />
     <state x="584" y="190" key="chooseDestDirectoryDialog" timestamp="1577976790649">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

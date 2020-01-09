@@ -8,7 +8,7 @@ public class ValidationUtils {
 
     private static Pattern emailPattern = Pattern.compile("^[a-zA-Z0-9_!#$%&’*+/=?`{|}~^.-]+@[a-zA-Z0-9.-]+$");
 
-    private static Pattern passwordPattern = Pattern.compile("^[a-zA-Z0-9]+[a-zA-Z0-9.-]");
+    private static Pattern passwordPattern = Pattern.compile("^[a-zA-Z0-9_!#$%&’*+/=?`{|}~^.-]+@[a-zA-Z0-9.-]+$");
 
     public static boolean isNullOrEmpty(String value) {
         return  value == null || value.isEmpty();

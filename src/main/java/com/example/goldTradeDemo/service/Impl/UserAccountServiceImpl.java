@@ -67,7 +67,7 @@ public class UserAccountServiceImpl extends AbstractCommonService implements Use
     }
 
     private void checkOwnerUsernameAlreadyExist(String ownerUsername) {
-        List<UserAccount> userAccounts = userAccountRepository.findByOwnerEmail(ownerUsername);
+        List<UserAccount> userAccounts = userAccountRepository.findByOwnerUsername(ownerUsername);
         if (!userAccounts.isEmpty()) {
             throw new CommonConflictException(msgSource.ERR004);
 

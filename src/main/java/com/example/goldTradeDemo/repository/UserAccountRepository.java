@@ -10,5 +10,6 @@ import java.util.List;
 @Repository
 public interface UserAccountRepository extends CrudRepository<UserAccount, Long> {
     List<UserAccount> findByOwnerEmail(String ownerEmail);
+    List<UserAccount> findByOwnerUsername(String ownerUsername);
 }
 
